@@ -1,5 +1,5 @@
 # README
 
-source = orgA
+source = orgB
 
 random update
